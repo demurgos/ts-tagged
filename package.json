@@ -1,0 +1,22 @@
+{
+  "name": "ts-tagged",
+  "version": "1.0.0",
+  "homepage": "https://github.com/demurgos/ts-tagged",
+  "description": "Base generic type for weak nominal typing in Typescript",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:demurgos/ts-tagged.git"
+  },
+  "keywords": [
+    "typescript",
+    "tagged",
+    "named",
+    "nominal"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "test": "exit 0"
+  }
+}
